@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @s0racat
-- 👀 I’m interested in JavaScript, React
-- 🌱 I’m currently learning JavaScript, React
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me <a href='https://scrapbox.io/soracat/soracat'>See Profile</a>
 
 <!---
